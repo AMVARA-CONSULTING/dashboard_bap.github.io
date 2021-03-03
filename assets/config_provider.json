@@ -1,0 +1,24 @@
+{
+  "debug": false,
+  "language": "en",
+  "appTitle": "DIP",
+  "scenario": "int",
+  "target": "trucks",
+  "delay": 0,
+  "copyright": "1",
+  "license": {
+    "trucks": "TE/SO",
+    "vans": "VAN/VSO"
+  },
+  "apiLink": "/internal/bi/v1/",
+  "apiDomain": "",
+  "enableReports": {
+    "order_backlog": true,
+    "order_intake": true,
+    "production_program": true,
+    "allocation": true,
+    "plant_stock": true
+  },
+  "corpintra": true,
+  "simulateUnauthorized": true
+}

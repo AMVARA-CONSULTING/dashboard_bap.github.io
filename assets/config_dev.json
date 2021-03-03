@@ -1,0 +1,6 @@
+{
+    "corpintra": true,
+    "scenario": "int",
+	"portal": "/internal/bi/",
+	"apiLink": "/internal/bi/v1/"
+}
